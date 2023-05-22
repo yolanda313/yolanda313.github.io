@@ -45,6 +45,11 @@ a {
 	text-decoration: none;
 	font-family: "Arial Rounded MT";
 }
+body nav {
+	background-color: #7AE3F0;
+	width: auto;
+	height: 50px;
+}
 main section div {
     margin: 10px;
     padding: 20px;
