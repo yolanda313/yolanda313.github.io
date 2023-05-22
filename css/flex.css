@@ -13,6 +13,38 @@ body main {
     padding: 50px;
     background-color: #F9A8AA;
 }
+nav ul li {
+	display: inline-block;
+	width: 107px;
+	height: 36px;
+	text-align: center;
+	margin-right: 18px;
+	margin-left: 12px;
+	padding-top: 19px;
+	padding-right: 10px;
+	padding-left: 13px;
+	padding-bottom: 0px;
+	border-radius: 50px;
+	background-color: rgba(239,250,255,1.00);
+	font-family: "CreteRound Regular";
+	font-size: 12px;
+	margin-top: 19px;
+}
+ul li a:link  {
+    color: rgba(95,146,255,1.00);
+
+}
+ul li a:hover  {
+    color: rgba(17,88,162,1.00);
+    font-size: 18px;
+}
+ul li a:visited {
+    color: rgba(129,113,113,1.00);
+}
+a {
+	text-decoration: none;
+	font-family: "Arial Rounded MT";
+}
 main section div {
     margin: 10px;
     padding: 20px;
